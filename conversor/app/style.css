@@ -5,3 +5,9 @@
 body{
   padding-top: 70px;
 }
+
+.resaltado {
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+}
